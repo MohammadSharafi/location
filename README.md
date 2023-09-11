@@ -33,4 +33,4 @@ App:
 -Created a MultiBlocProvider to provide the LocationPinBloc to the app.
 -Initialized the AutoRouter for navigation.
 -Configured the MaterialApp with routing and provided it with a global navigator key.
--Implemented the getIt method from dependency injection for Bloc and routing setup.
+-Implemented the getIt method from dependency injection for Bloc and routing setup.# location
